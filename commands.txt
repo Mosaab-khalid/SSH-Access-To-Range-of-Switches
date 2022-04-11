@@ -1,0 +1,4 @@
+confi ter
+User admin password 123123
+end 
+write memory
